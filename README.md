@@ -1,3 +1,9 @@
+Repositório designado a matéria de engenharia de prompt do curso de Análise e Desenvolvimento de Sistemas
+
+
+
+
+
 O QUE É MACHINE LEARNING? (pergunta simples).
 Machine Learning (ou Aprendizado de Máquina) é um subcampo da Inteligência Artificial que permite que computadores aprendam e tomem decisões sem serem explicitamente programados para cada tarefa específica.
 
