@@ -1,6 +1,4 @@
-Aqui está o seu conteúdo organizado em Markdown, estruturado para ser facilmente copiado e colado no seu repositório de Engenharia de Prompt:
 
-Markdown
 # Repositório: Engenharia de Prompt
 **Curso:** Análise e Desenvolvimento de Desenvolvimento de Sistemas
 
